@@ -417,39 +417,6 @@ Potential future enhancements include:
 - 🐍 Python-based external control
 - ☁️ Cloud-connected robotic applications
 
----
-
-## 📁 Repository Structure
-
-A recommended GitHub repository structure is:
-
-```text
-ESP32-Based-Interactive-Quadruped/
-│
-├── CAD_Source/
-│   └── README.md
-│
-├── Firmware/
-│   ├── main/
-│   ├── face-bitmaps.h
-│   ├── movement-sequences.h
-│   └── captive-portal.h
-│
-├── Hardware/
-│   ├── Circuit_Diagram/
-│   └── Wiring/
-│
-├── Figures/
-│
-├── Documentation/
-│   └── capstone_report.pdf
-│
-└── README.md
-```
-
-> The actual firmware/CAD binaries should only be placed in the repository when the corresponding files are available and their redistribution terms are satisfied.
-
----
 
 ## 📖 Reference
 
@@ -462,41 +429,6 @@ https://github.com/dorianborian/sesame-robot
 
 The Sesame Robot project is used as the mechanical/CAD source/reference for this implementation.
 
----
-
-## 👨‍💻 Author
-
-**Shahziar Karim Safit**  
-Roll: **2001074**  
-Department of Electrical & Electronic Engineering  
-Rajshahi University of Engineering & Technology (RUET)
-
-### Project Supervisor
-
-**Dr. Ajay Krishno Sarkar**  
-Professor  
-Department of Electrical & Electronic Engineering  
-Rajshahi University of Engineering & Technology
-
----
-
-## 📄 Project Report
-
-The complete project report is available in:
-
-```text
-Documentation/capstone_report.pdf
-```
-
-Project title:
-
-**ESP32 Based Interactive Quadruped Robot with Wireless Motion Control**
-
----
-
-## ⭐ Project Highlights
-
-This project demonstrates the integration of:
 
 **Embedded Systems + Robotics + Servo Control + Wi-Fi Communication + Web Control + OLED Animation + 3D-Printed Mechanical Design**
 
